@@ -43,7 +43,7 @@ button:hover {
 .operator:hover {
     background-color: #5CDB95;
 }
-@media all and (max-width: 670px){
+@media (max-width: 670px){
     .calculator{
     width: 100%
     }
